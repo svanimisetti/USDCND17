@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:            Autonomous Vehicles
-subtitle:         Web-log for Udacity Self-driving Car Nanodegree (2017)
+title:            Sampath Vanimisetti
+subtitle:         Weblog for the 2017 Udacity Self-Driving Car Nanodegree
 description:      This site is a detailed log of my experience during Udacity's self-driving car nanodegree. The idea is to share information to help upcoming student cohorts.
 keywords:         udacity self-driving autonomous vehicle car
 language:         "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
@@ -16,7 +16,7 @@ baseurl:          "/USDCND17" # the subpath of your site, e.g. /blog
 url:              "https://svanimisetti.in" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:        /blog/:categories/:title
 cover:            /assets/mountain-cover.jpg
-disqus_shortname: "jekylldecent"
+disqus_shortname: "usdcnd17"
 
 # Build settings
 markdown: kramdown
