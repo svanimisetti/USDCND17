@@ -1,8 +1,8 @@
 default:                                                       # Fallback if nothing is specified
   initial:       svanimisetti                                  # used for author lookup in posts and for first two characters in the about page back button
   name:          "Sampath Vanimisetti"                         # used to display author name
-  cover:         /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:       /assets/jwillmer.jpg                          # OPTIONAL: author picture
+  cover:         /assets/Mercedes-SDC-F-015-SF-sunset.jpg      # OPTIONAL: defines location of cover image in about page
+  picture:       /assets/svanimisetti.jpg                      # OPTIONAL: author picture
   bio:           A weblog for the Udacity Self-driving Car Nanodegree # OPTIONAL: text below author name in posts
   location:      Bengaluru, India                              # OPTIONAL: used to display location of the author
   website:       "https://svanimisetti.in/about"               # OPTIONAL: link to the author of a post
@@ -22,8 +22,8 @@ default:                                                       # Fallback if not
 svanimisetti:
   initial:       svanimisetti
   name:          "Sampath Vanimisetti"        
-  cover:         /assets/mountain-alternative-cover.jpg  
-  picture:       /assets/jwillmer.jpg  
+  cover:         /assets/Mercedes-SDC-F-015-SF-sunset.jpg
+  picture:       /assets/svanimisetti.jpg  
   bio:           A weblog for the Udacity Self-driving Car Nanodegree 
   location:      Bengaluru, India 
   website:       "https://svanimisetti.in/about" 
