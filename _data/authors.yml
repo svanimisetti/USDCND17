@@ -5,7 +5,7 @@ default:                                                       # Fallback if not
   picture:       /assets/svanimisetti.jpg                      # OPTIONAL: author picture
   bio:           A weblog for the Udacity Self-driving Car Nanodegree # OPTIONAL: text below author name in posts
   location:      Bengaluru, India                              # OPTIONAL: used to display location of the author
-  website:       "https://svanimisetti.in/about"               # OPTIONAL: link to the author of a post
+  website:       "https://svanimisetti.in"                     # OPTIONAL: link to the author of a post
   email:                                                       # OPTIONAL: used in the about page
   twitter:       svanimisetti                                  # OPTIONAL: used in the about page
   linkedin:      sampathvanimisetti                            # OPTIONAL: used in the about page
@@ -26,7 +26,7 @@ svanimisetti:
   picture:       /assets/svanimisetti.jpg  
   bio:           A weblog for the Udacity Self-driving Car Nanodegree 
   location:      Bengaluru, India 
-  website:       "https://svanimisetti.in/about" 
+  website:       "https://svanimisetti.in" 
   twitter:       svanimisetti
   github:        svanimisetti
   stackoverflow: svanimisetti
